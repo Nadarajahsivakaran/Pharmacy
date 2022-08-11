@@ -1,0 +1,53 @@
+.sign
+{
+    width: 30%;
+    border: 1px solid rgb(235, 229, 223);
+    padding: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    margin-top: 30px;
+    box-shadow: 10px 5px 5px rgb(245, 226, 226);
+}
+
+.heading{
+    text-align: center;
+}
+
+.dash{
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.box{
+    border: 1px solid rgb(235, 229, 223);
+    padding: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    margin-top: 30px;
+
+}
+
+.quoation{
+    border: 1px solid rgb(235, 229, 223);
+    padding: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    margin-top: 30px;
+
+}
+
+.logout{
+    float: right;
+    border-right: 50px;
+}
+
